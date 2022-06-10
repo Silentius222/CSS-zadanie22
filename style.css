@@ -1,0 +1,15 @@
+.tytul{
+    background-color: green;
+}
+
+.naglowek{
+    background-color: aqua;
+}
+
+.paragraf{
+    color: blueviolet;
+}
+
+.tytul+.naglowek{
+    color: yellow;
+}
